@@ -10,6 +10,7 @@ local modinfo = {
 	modtype = 1,
 	depend = {
 		"cursors.sdz",
+		"springcontent.sdz",
 	}
 }
 return modinfo
